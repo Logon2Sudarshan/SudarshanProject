@@ -1,71 +1,39 @@
-Menu
+Today, @Kamatar, Sudarshan M., @Murali Krishna, and Balu had an in-depth discussion about the remaining tasks for the IPT production release. Here's the status update:
 
-Assistance
+1. Application Code: The code has been finalized, and I'm no longer actively developing it. We are ready for the code freeze.
 
-Text Formatting
+2. Production setup for UCD: Completed by @Murali Krishna, Balu.
 
-Settings
+3. User group creation for authorization: @Murali Krishna, Balu aims to finish this by January 16, according to the release calendar.
 
-Insertion
+4. Production Ping onboarding: @Murali Krishna, Balu suggested it can be completed on the day of release; it's not a blocker.
 
-Review
+5. Code quality Matrices: Jenkins integrated matrices-wise, we are in good shape. Any issues can be addressed post-code freeze within a one-week timeframe; it's not a blocker.
 
-Specify your action
+6. SSIS packages automation: Some items are completed, and others need attention. Details of the packages are outlined below.
 
-Notification
-
-Font: Calibri (Body)
-
-Size: 11
-
--BIUOAΞΕ
-
-Author
-
-Murali Krishna, Balu Kamatar, Sudarshan M
-
-Send
-
-7.
-
-Subject
-
-Today, Sudarshan M., @Kamatar, and Murali Krishna, Balu, engaged in a comprehensive discussion about pending tasks for the IPT production release. The status of each item is detailed below:
-
-1. Application Code: Code finalization is complete, and no further development is underway. We are ready for code freeze.
-
-2. Production setup for UCD: Completed by Murali Krishna, Balu.
-
-3. User group creation for authorization: @Murali krishna, Balu, aims to finish by January 16, as per the release calendar.
-
-4. Production Ping onboarding: @Murali krishna, Balu, assured completion on the release day; it's not a blocker.
-
-5. Code quality Matrices: Jenkin integrated matrices are satisfactory; any issues post code freeze can be addressed within a week.
-
-6. SSIS packages automation: Some items are completed; the rest may extend beyond the January 2 code freeze. Details provided below:
-
-II. Business case for App-Rat: Completed
+Business case and Themes: Can be completed.
 
 Interlock: Can be completed.
 
-IV. Interlock for App-Rat: Completed
+Interlock for App-Rat: Completed.
 
-V. Business case Product program map:
+Business case Product program map: No impact as we are not updating it in the system.
 
-VI. Business case Product program map for App-Rat: Can be completed.
+Business case Product program map for App-Rat: Can be completed.
 
-VII. Product capacity planning: Not yet started.
+Product capacity planning: Not yet started.
 
-VIII. Business case Non-labor cost: Not yet started.
+Business case Non-labor cost: Not yet started.
 
-IX. Agile Programs for App-Rat: Not yet started.
+Agile Programs for App-Rat: Not yet started.
 
-Product Roadmap
+Product Roadmap: Not yet started.
 
-XI. Product Initiative
+Product initiative: Not yet started.
 
-XII. Product template
+Product template: Not yet started.
 
-XIII. Product Roadmap bulk upload
+Product Roadmap bulk upload: Not yet started.
 
-XIV. Temp table update
+Temp table update: Not yet started.
