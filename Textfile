@@ -1,8 +1,71 @@
-Subject: Request for Your Feedback
+Menu
 
-Hi Patrick,
+Assistance
 
-I trust this message finds you well. I've truly appreciated the valuable experience of working under your guidance, particularly in the realm of architecture studio automation and other APM-related artifacts. I am reaching out to kindly request your feedback on our collaboration. Your insights are immensely valuable and will serve as inspiration for further improvement in my work.
+Text Formatting
 
-Best regards,
-[Your Name]
+Settings
+
+Insertion
+
+Review
+
+Specify your action
+
+Notification
+
+Font: Calibri (Body)
+
+Size: 11
+
+-BIUOAΞΕ
+
+Author
+
+Murali Krishna, Balu Kamatar, Sudarshan M
+
+Send
+
+7.
+
+Subject
+
+Today, Sudarshan M., @Kamatar, and Murali Krishna, Balu, engaged in a comprehensive discussion about pending tasks for the IPT production release. The status of each item is detailed below:
+
+1. Application Code: Code finalization is complete, and no further development is underway. We are ready for code freeze.
+
+2. Production setup for UCD: Completed by Murali Krishna, Balu.
+
+3. User group creation for authorization: @Murali krishna, Balu, aims to finish by January 16, as per the release calendar.
+
+4. Production Ping onboarding: @Murali krishna, Balu, assured completion on the release day; it's not a blocker.
+
+5. Code quality Matrices: Jenkin integrated matrices are satisfactory; any issues post code freeze can be addressed within a week.
+
+6. SSIS packages automation: Some items are completed; the rest may extend beyond the January 2 code freeze. Details provided below:
+
+II. Business case for App-Rat: Completed
+
+Interlock: Can be completed.
+
+IV. Interlock for App-Rat: Completed
+
+V. Business case Product program map:
+
+VI. Business case Product program map for App-Rat: Can be completed.
+
+VII. Product capacity planning: Not yet started.
+
+VIII. Business case Non-labor cost: Not yet started.
+
+IX. Agile Programs for App-Rat: Not yet started.
+
+Product Roadmap
+
+XI. Product Initiative
+
+XII. Product template
+
+XIII. Product Roadmap bulk upload
+
+XIV. Temp table update
